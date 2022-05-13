@@ -1,7 +1,11 @@
 {
     "webprivacy": [{
         "id": 1,
-        "name": "",
-        "url": ""
+        "name": "Ministry of Commerce",
+        "url": "https://www.moc.go.th/th/content/category/detail/id/308/iid/2889"
+    }, {
+        "id": 2,
+        "name": "Metropolitan Electricity Authority",
+        "url": "https://www.mea.or.th/profile/50020"
     }]
 }
