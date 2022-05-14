@@ -7,5 +7,25 @@
         "id": 2,
         "name": "Metropolitan Electricity Authority",
         "url": "https://www.mea.or.th/profile/50020"
+    }, {
+        "id": 3,
+        "name": "National Research Council of Thailand",
+        "url": "https://www.nrct.go.th/Website-Security-Policy"
+    }, {
+        "id": 4,
+        "name": "King Mongkut's University of Technology Thonburi (KMUTT)",
+        "url": "https://www.kmutt.ac.th/en/website-policy"
+    }, {
+        "id": 5,
+        "name": "The Standard",
+        "url": "https://thestandard.co/privacy-policy"
+    }, {
+        "id": 6,
+        "name": "Lazada",
+        "url": "https://www.lazada.co.th/privacy-policy"
+    }, {
+        "id": 7,
+        "name": "Shopee",
+        "url": "https://shopee.co.th/docs/3608"
     }]
 }
