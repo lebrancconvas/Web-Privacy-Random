@@ -4,4 +4,4 @@ interface IWebData {
 	url: string;
 }
 
-export default IWebData
+export default IWebData; 
